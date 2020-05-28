@@ -1,13 +1,14 @@
 /** @file : Composition.cpp
-  * Date: 27th May 2020
+  * @author: Abhijit Kale
+  * @date: 27th May 2020
   */
 
- #include <iostream>
- #include <string>
+#include <iostream>
+#include <string>
 
- using namespace std;
+using namespace std;
 
- /// @brief Base Entree class
+/// @brief Base Entree class
 class Entree {
 
 protected:
